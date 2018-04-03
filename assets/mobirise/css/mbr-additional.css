@@ -1612,6 +1612,14 @@ body {
 .cid-qO2FHbMZAK .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-qO2FHbMZAK H2 {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-qO2FHbMZAK P {
+  text-align: center;
+  color: #ffffff;
+}
 .cid-qO2Jg5raac .navbar {
   padding: .5rem 0;
   background: #333333;
