@@ -1620,6 +1620,20 @@ body {
   text-align: center;
   color: #ffffff;
 }
+.cid-qObn4miZyg {
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-qObn4miZyg h1 {
+  color: #616161;
+}
+.cid-qObn4miZyg h2,
+.cid-qObn4miZyg h3,
+.cid-qObn4miZyg p {
+  color: #767676;
+}
+.cid-qObn4miZyg .mbr-section-subtitle {
+  font-style: italic;
+}
 .cid-qO2Jg5raac .navbar {
   padding: .5rem 0;
   background: #333333;
